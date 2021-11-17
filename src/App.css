@@ -1,0 +1,11 @@
+#root {
+  margin: 40px auto;
+  max-width: 1000px;
+  background: #c0c0c0;
+  padding: 10px;
+}
+.test {
+  width: 100px;
+  height: 100px;
+  background: orange
+}
